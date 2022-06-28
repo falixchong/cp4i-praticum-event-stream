@@ -58,13 +58,19 @@ Connection | ***MQ client connection properties***
 Destination queue manager name | ***QMGRDEMO***
 Queue manager host name | ***qmgr-demo-ibm-mq***
 Listener port number | ***1414***
-Channel name | any value, i.e. ***ACE.TO.MQ***
+Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit REST API with MQ Step 11](images/2022-06-28_13-07-42.png)
 
+12. Now double click the *Mapping Node*,
+
 ![ACE Toolkit REST API with MQ Step 12](images/2022-06-28_13-08-43.png)
 
+13. In the wizard window simply click *Finish*.
+
 ![ACE Toolkit REST API with MQ Step 13](images/2022-06-28_13-09-14.png)
+
+14. Expand the *JSON* section in both the input and output message assemblies and connect the *payload* as shown below.  
 
 ![ACE Toolkit REST API with MQ Step 14](images/2022-06-28_13-11-15.png)
 
