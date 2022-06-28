@@ -35,10 +35,14 @@ This article explains the steps need to create an Integration Flow developed wit
   * MQ Output Node, and
   * Mapphin Node.
 
-And you will proceed to wire them. The flow should look like the one below. Once you are done double click the tab again in order to access the properties for each node.
+    And you will proceed to wire them. The flow should look like the one below. Once you are done double click the tab again in order to access the properties for each node.
 ![ACE Toolkit REST API with MQ Step 7](images/2022-06-28_12-37-45.png)
 
+8. Now we will configure each node, starting with the *HTTP Header Node*. Click on it to bring it to focus and then select the *HTTP Input* tab followed by the *Delete header* option as shown below.
+
 ![ACE Toolkit REST API with MQ Step 8](images/2022-06-28_12-40-26.png)
+
+9. Now select the *MQ Output Node*.
 ![ACE Toolkit REST API with MQ Step 9](images/2022-06-28_13-01-52.png)
 ![ACE Toolkit REST API with MQ Step 10](images/2022-06-28_13-04-48.png)
 ![ACE Toolkit REST API with MQ Step 11](images/2022-06-28_13-07-42.png)
