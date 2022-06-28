@@ -8,6 +8,7 @@ This article explains the steps need to create an Integration Flow developed wit
 ![ACE Toolkit REST API with MQ Step 1](images/2022-06-28_12-23-53.png)
 
 2. Give a name to your project, i.e. *MQAPI* and then select the option to *Import resources* since we will leverage a definition already created.
+
 ![ACE Toolkit REST API with MQ Step 2](images/2022-06-28_12-25-32.png)
 
 3. In the wizard click *Browse* and navigate to the location where the OpenAPI file definition is located.
