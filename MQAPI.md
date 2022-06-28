@@ -74,11 +74,21 @@ Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit REST API with MQ Step 14](images/2022-06-28_13-11-15.png)
 
+15. Then *right click* the *code* field and select *Add Assign* from the menu.
+
 ![ACE Toolkit REST API with MQ Step 15](images/2022-06-28_14-45-30.png)
+
+16. In the properties section enter ***CP4I0000*** in the *value* field.
 
 ![ACE Toolkit REST API with MQ Step 16](images/2022-06-28_14-46-24.png)
 
+17. Repeat the same process for field *msg* and assign the value ***Request has been processed***
+
+18. Do the same for field *time* but this time we will replace the *Assign* option with the *current-time* function as shown below.
+
 ![ACE Toolkit REST API with MQ Step 17](images/2022-06-28_14-47-50.png)
+
+19. Save your progress and close the *mapping* tab.
 
 ![ACE Toolkit REST API with MQ Step 18](images/2022-06-28_14-48-57.png)
 
