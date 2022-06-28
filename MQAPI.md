@@ -42,9 +42,11 @@ This article explains the steps need to create an Integration Flow developed wit
 
 ![ACE Toolkit REST API with MQ Step 8](images/2022-06-28_12-40-26.png)
 
-9. Now select the *MQ Output Node*.
-![ACE Toolkit REST API with MQ Step 9](images/2022-06-28_13-01-52.png)
-![ACE Toolkit REST API with MQ Step 10](images/2022-06-28_13-04-48.png)
+9. Now select the *MQ Output Node* and navigate to the *Basic* tab where you will enter the name of the queue we will use to put the messages, in this case *CP4I.DEMO.API.Q*
+![ACE Toolkit REST API with MQ Step 9](images/2022-06-28_13-04-48.png)
+
+![ACE Toolkit REST API with MQ Step 10](images/2022-06-28_13-01-52.png)
+
 ![ACE Toolkit REST API with MQ Step 11](images/2022-06-28_13-07-42.png)
 ![ACE Toolkit REST API with MQ Step 12](images/2022-06-28_13-08-43.png)
 ![ACE Toolkit REST API with MQ Step 13](images/2022-06-28_13-09-14.png)
