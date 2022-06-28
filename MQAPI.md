@@ -20,8 +20,12 @@ This article explains the steps need to create an Integration Flow developed wit
 
 ![ACE Toolkit REST API with MQ Step 4](images/2022-06-28_12-28-17.png)
 
+5. The REST API will be displayed, scroll to the right if needed to open the sunflow operation as shown in the image to proceed to implement the API logic.
 
 ![ACE Toolkit REST API with MQ Step 5](images/2022-06-28_12-31-05.png)
+
+6. The *Message Flow Editor* will be open with only the *Input* and *Output* terminals. Double click the tab to maximize the editor and work with the flow.
+
 ![ACE Toolkit REST API with MQ Step 6](images/2022-06-28_12-32-33.png)
 ![ACE Toolkit REST API with MQ Step 7](images/2022-06-28_12-37-45.png)
 ![ACE Toolkit REST API with MQ Step 8](images/2022-06-28_12-40-26.png)
