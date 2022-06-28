@@ -86,14 +86,20 @@ Channel name | ***ACE.TO.MQ***
 
 18. Do the same for field *time* but this time we will replace the *Assign* option with the *current-time* function as shown below.
 
-![ACE Toolkit REST API with MQ Step 17](images/2022-06-28_14-47-50.png)
+![ACE Toolkit REST API with MQ Step 18](images/2022-06-28_14-47-50.png)
 
-19. Save your progress and close the *mapping* tab.
+19. The integration flow is completed. Save your progress and close the *mapping* tab.
 
-![ACE Toolkit REST API with MQ Step 18](images/2022-06-28_14-48-57.png)
+![ACE Toolkit REST API with MQ Step 19](images/2022-06-28_14-48-57.png)
 
-![ACE Toolkit REST API with MQ Step 19](images/2022-06-28_14-50-45.png)
+20. Now we will generate the BAR file that we will use to deploy the Integration into CP4I. From the *File* menu select *New* and then *BAR file* as shown below.
 
-![ACE Toolkit REST API with MQ Step 20](images/2022-06-28_14-52-42.png)
+![ACE Toolkit REST API with MQ Step 20](images/2022-06-28_14-50-45.png)
 
-![ACE Toolkit REST API with MQ Step 21](images/2022-06-28_14-54-12.png)
+21. In the pop up window enter the name of the BAR file, in this case ***CP4IACEMQAPIPREM***. And then click *Finish*.
+
+![ACE Toolkit REST API with MQ Step 21](images/2022-06-28_14-52-42.png)
+
+22. Click *OK* in the confirmation window and the BAR file is ready to be deployed.
+
+![ACE Toolkit REST API with MQ Step 22](images/2022-06-28_14-54-12.png)
