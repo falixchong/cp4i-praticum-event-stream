@@ -27,7 +27,16 @@ This article explains the steps need to create an Integration Flow developed wit
 6. The *Message Flow Editor* will be open with only the *Input* and *Output* terminals. Double click the tab to maximize the editor and work with the flow.
 
 ![ACE Toolkit REST API with MQ Step 6](images/2022-06-28_12-32-33.png)
+
+7. Drag and drop the *Nodes* from the palette to implemeng the "logic". In this case we will use the following nodes:
+  * Flow Order Node,
+  * HTTP Header Node,
+  * MQ Header Node,
+  * MQ Output Node, and
+  * Mapphin Node.
+And you will proceed to wire them. The flow should look like the one below.
 ![ACE Toolkit REST API with MQ Step 7](images/2022-06-28_12-37-45.png)
+
 ![ACE Toolkit REST API with MQ Step 8](images/2022-06-28_12-40-26.png)
 ![ACE Toolkit REST API with MQ Step 9](images/2022-06-28_13-01-52.png)
 ![ACE Toolkit REST API with MQ Step 10](images/2022-06-28_13-04-48.png)
