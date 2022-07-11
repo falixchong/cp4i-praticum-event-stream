@@ -55,7 +55,7 @@ This article explains the steps needed to create an Integration Flow developed w
 
 ![ACE Toolkit App Forward MQ Message Step 11](images/2022-07-11_09-23-03.png)
 
-12. As a result a new tab is open with the CSV schema. *Save* your progress, expand the *Record* and modify the *fields* to provide more meaningful names. You can use the following values as reference:
+12. As a result a new tab is open with the CSV schema. *Save* your progress, expand the *Record* and modify the *fields* to provide more meaningful names. You can use the following values as reference. On ce you are done close the tab.
 
 Field Name | Value
 ---------|-------
