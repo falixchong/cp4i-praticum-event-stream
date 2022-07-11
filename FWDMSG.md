@@ -42,9 +42,31 @@ This article explains the steps needed to create an Integration Flow developed w
 8. Explore the different options. If you are using Mac you will notice *COBOL* is grayed out. For the same reason we will use CSV for this exercise, so select *CSV text* and click *Next*.
 
 ![ACE Toolkit App Forward MQ Message Step 8](images/2022-07-11_09-11-09.png)
+
+9. In the next window select *Create DFDL schema using wizard* and then click *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 9](images/2022-07-11_09-12-26.png)
+
+10. In the next window enter a name for the DFDL schema, i.e. *MYDATAMODEL* and then select *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 10](images/2022-07-11_09-17-51.png)
+
+11. In the next windown enter the nunmber of field for the CSV, in this case *7* and then click *Finish*.
+
 ![ACE Toolkit App Forward MQ Message Step 11](images/2022-07-11_09-23-03.png)
+
+12. As a result a new tab is open with the CSV schema. *Save* your progress, expand the *Record* and modify the *fields* to provide more meaningful names. You can use the following values as reference:
+
+Field Name | Value
+---------|-------
+ID | *String*
+FNAME | *String*
+LNAME | *String*
+EMAIL | *String*
+PHONE | *String*
+COMPANY | *String*
+COMMENTS | *String*
+
 ![ACE Toolkit App Forward MQ Message Step 12](images/2022-07-11_09-25-45.png)
 ![ACE Toolkit App Forward MQ Message Step 13](images/2022-07-11_09-29-09.png)
 ![ACE Toolkit App Forward MQ Message Step 14](images/2022-07-11_09-31-43.png)
