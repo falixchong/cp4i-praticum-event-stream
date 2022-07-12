@@ -157,5 +157,10 @@ Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit App Forward MQ Message Step 32](images/2022-07-11_09-58-35.png)
 
+33. Select the *MQ Output* Node to get the node in focus and navigate to the *Basic* properties and enter the name of the queue, in this case *CP4I.DEMO.REQUEST.Q*.
+
 ![ACE Toolkit App Forward MQ Message Step 33](images/2022-07-11_10-00-55.png)
+
+34. With the *MQ Output* Node still selected go the *MQ Connection* section and since we are using the same queue manager enter the same information as before. Note the queues could be in different queue managers if needed.
+
 ![ACE Toolkit App Forward MQ Message Step 34](images/2022-07-11_10-02-44.png)
