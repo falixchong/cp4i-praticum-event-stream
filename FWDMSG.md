@@ -115,12 +115,12 @@ Channel name | ***ACE.TO.MQ***
 
 22. Double click the *Mapping Node* to create the corresponding map.
 
-![ACE Toolkit App Forward MQ Message Step 21](images/2022-07-11_09-41-56.png)
+![ACE Toolkit App Forward MQ Message Step 24](images/2022-07-11_09-48-11.png)
 
 23. We do not need to make any change in the next window, simply click *Next*.
 
 ![ACE Toolkit App Forward MQ Message Step 22](images/2022-07-11_09-42-24.png)
-![ACE Toolkit App Forward MQ Message Step 24](images/2022-07-11_09-48-11.png)
+
 ![ACE Toolkit App Forward MQ Message Step 25](images/2022-07-11_09-49-29.png)
 ![ACE Toolkit App Forward MQ Message Step 26](images/2022-07-11_09-52-30.png)
 ![ACE Toolkit App Forward MQ Message Step 27](images/2022-07-11_09-53-41.png)
