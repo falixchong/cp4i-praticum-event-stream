@@ -141,9 +141,16 @@ Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit App Forward MQ Message Step 29](images/2022-07-11_09-55-58.png)
 
+29. We are going to take advantage of the automapping functionality. Click on the corresponding icon as shown in the picture.
 
 ![ACE Toolkit App Forward MQ Message Step 30](images/2022-07-11_09-57-00.png)
+
+30. Review the window but we do not need to change anything, so simply click *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 31](images/2022-07-11_09-57-23.png)
+
+31. We can customize the mapping behavior, but for the demo we will map all the fields. Click *Finish*.
+
 ![ACE Toolkit App Forward MQ Message Step 32](images/2022-07-11_09-58-01.png)
 ![ACE Toolkit App Forward MQ Message Step 33](images/2022-07-11_10-00-55.png)
 ![ACE Toolkit App Forward MQ Message Step 34](images/2022-07-11_10-02-44.png)
