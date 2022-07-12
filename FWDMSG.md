@@ -152,5 +152,10 @@ Channel name | ***ACE.TO.MQ***
 31. We can customize the mapping behavior, but for the demo we will map all the fields. Click *Finish*.
 
 ![ACE Toolkit App Forward MQ Message Step 32](images/2022-07-11_09-58-01.png)
+
+32. The field are mapped automatically! Save your progress and close the mapping editor to continue configuring the flow.
+
+![ACE Toolkit App Forward MQ Message Step 32](images/2022-07-11_09-58-35.png)
+
 ![ACE Toolkit App Forward MQ Message Step 33](images/2022-07-11_10-00-55.png)
 ![ACE Toolkit App Forward MQ Message Step 34](images/2022-07-11_10-02-44.png)
