@@ -88,12 +88,33 @@ Channel name | ***ACE.TO.MQ***
 15. As a final step we need to tell the node what format to expect, so navigate to the *Input Message Parsing* section and select *JSON*.
 
 ![ACE Toolkit App Forward MQ Message Step 15](images/2022-07-11_09-34-15.png)
+
+16. The input node will parse the message automatically, but if we want to use the graphical mapper we need to have a json schema. To do so, we will import an existing json schema into the project. From the main menu select the *File* option and then *Import*. In the *Import* wizard type *file*, then select *File System* and click *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 16](images/2022-07-11_09-36-53.png)
+
+17. In the next window select *Browse* and navigate to the folder where you have the json schema.
+
 ![ACE Toolkit App Forward MQ Message Step 17](images/2022-07-11_09-37-46.png)
+
+18. The *Folder* will appear on the left side and the content on the right. Scroll down until you find the *contact.json* file then click *Browse* to define the folder where the file will be imported to.
+
 ![ACE Toolkit App Forward MQ Message Step 18](images/2022-07-11_09-39-14.png)
+
+19. In the pop up windos select the *App* we created at the beginning of the Lab. In this case *FWDMSG*, and then click *OK*.
+
 ![ACE Toolkit App Forward MQ Message Step 19](images/2022-07-11_09-40-47.png)
+
+20. The information is complete, you can click *Finish*.
+
 ![ACE Toolkit App Forward MQ Message Step 20](images/2022-07-11_09-41-22.png)
+
+21. Double click the *Mapping Node* to create the corresponding map.
+
 ![ACE Toolkit App Forward MQ Message Step 21](images/2022-07-11_09-41-56.png)
+
+22. We do not need to make any change in the next window, simply click *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 22](images/2022-07-11_09-42-24.png)
 ![ACE Toolkit App Forward MQ Message Step 23](images/2022-07-11_09-46-45.png)
 ![ACE Toolkit App Forward MQ Message Step 24](images/2022-07-11_09-48-11.png)
