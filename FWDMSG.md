@@ -113,7 +113,7 @@ Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit App Forward MQ Message Step 20](images/2022-07-11_09-41-22.png)
 
-22. Double click the *Mapping Node* to create the corresponding map.
+22. Note the project tree now has a section with the JSON schema. Double click the *Mapping Node* to create the corresponding map.
 
 ![ACE Toolkit App Forward MQ Message Step 24](images/2022-07-11_09-48-11.png)
 
