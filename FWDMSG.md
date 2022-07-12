@@ -55,7 +55,7 @@ This article explains the steps needed to create an Integration Flow developed w
 
 ![ACE Toolkit App Forward MQ Message Step 11](images/2022-07-11_09-23-03.png)
 
-12. As a result a new tab is open with the CSV schema. *Save* your progress, expand the *Record* and modify the *fields* to provide more meaningful names. You can use the following values as reference. On ce you are done close the tab.
+12. As a result a new tab is open with the CSV schema. *Save* your progress, expand the *Record* and modify the *fields* to provide more meaningful names. You can use the following values as reference. Once you are done close the tab.
 
 Field Name | Value
 ---------|-------
@@ -68,7 +68,23 @@ COMPANY | *String*
 COMMENTS | *String*
 
 ![ACE Toolkit App Forward MQ Message Step 12](images/2022-07-11_09-25-45.png)
+
+13. Now we can start configuring the nodes. Click the *MQ Input Node* to put it in focus, navigate to the *Properties* area and select the *Basic* menu to enter the name of the queue based on the configuration done in the MQ Lab, for simplicity the name is *CP4I.DEMO.API.Q*.
+
 ![ACE Toolkit App Forward MQ Message Step 13](images/2022-07-11_09-29-09.png)
+
+14. Proceed to the *MQ Connection* section and enter the MQ configuration information. Including the information we used in the previous lab.
+
+Property | Value
+---------|-------
+Connection | ***MQ client connection properties***
+Destination queue manager name | ***QMGRDEMO***
+Queue manager host name | ***qmgr-demo-ibm-mq***
+Listener port number | ***1414***
+Channel name | ***ACE.TO.MQ***
+
+15. As a final step we need to tell the node what format to expect, so navigate to the *Input Message Parsing* section and select *JSON*.
+
 ![ACE Toolkit App Forward MQ Message Step 14](images/2022-07-11_09-31-43.png)
 ![ACE Toolkit App Forward MQ Message Step 15](images/2022-07-11_09-34-15.png)
 ![ACE Toolkit App Forward MQ Message Step 16](images/2022-07-11_09-36-53.png)
