@@ -121,11 +121,27 @@ Channel name | ***ACE.TO.MQ***
 
 ![ACE Toolkit App Forward MQ Message Step 22](images/2022-07-11_09-42-24.png)
 
+24. Here we will specific the data format used to process the message as well as the output message format. Expand *FWDMSG* (or whateever name you used); do the same with the *JSON Types* folder and select the *contact.json* schema we imported from the previous step. In the output section expand *FWDMSG* as well, but this time select *DFDL and XML Schemas* and then select *CONTACT* which is the CSV format we defined in previous steps. Then click *Next*.
+
 ![ACE Toolkit App Forward MQ Message Step 25](images/2022-07-11_09-49-29.png)
+
+25. The next page confirms the output format, in this case *DFDL*. You can click *Finish*.
+
 ![ACE Toolkit App Forward MQ Message Step 26](images/2022-07-11_09-52-30.png)
+
+26. The mapping editor will open. Expand the *JSON* and *CONTACT* records to get them in full view.
+
 ![ACE Toolkit App Forward MQ Message Step 27](images/2022-07-11_09-53-41.png)
+
+27. Connect the *Data* level at the left with the  *record* on the right.
+
 ![ACE Toolkit App Forward MQ Message Step 28](images/2022-07-11_09-54-41.png)
+
+28. A *Local Map* is created automatically. Click on in to open it and configure the mapping.
+
 ![ACE Toolkit App Forward MQ Message Step 29](images/2022-07-11_09-55-58.png)
+
+
 ![ACE Toolkit App Forward MQ Message Step 30](images/2022-07-11_09-57-00.png)
 ![ACE Toolkit App Forward MQ Message Step 31](images/2022-07-11_09-57-23.png)
 ![ACE Toolkit App Forward MQ Message Step 32](images/2022-07-11_09-58-01.png)
