@@ -83,9 +83,10 @@ Queue manager host name | ***qmgr-demo-ibm-mq***
 Listener port number | ***1414***
 Channel name | ***ACE.TO.MQ***
 
+![ACE Toolkit App Forward MQ Message Step 14](images/2022-07-11_09-31-43.png)
+
 15. As a final step we need to tell the node what format to expect, so navigate to the *Input Message Parsing* section and select *JSON*.
 
-![ACE Toolkit App Forward MQ Message Step 14](images/2022-07-11_09-31-43.png)
 ![ACE Toolkit App Forward MQ Message Step 15](images/2022-07-11_09-34-15.png)
 ![ACE Toolkit App Forward MQ Message Step 16](images/2022-07-11_09-36-53.png)
 ![ACE Toolkit App Forward MQ Message Step 17](images/2022-07-11_09-37-46.png)
