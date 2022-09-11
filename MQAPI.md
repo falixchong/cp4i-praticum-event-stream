@@ -4,7 +4,7 @@ This article explains the steps need to create an Integration Flow developed wit
 
 ### Pre-requisites:
 * Install the [App Connect Toolkit](https://www.ibm.com/docs/en/app-connect/12.0?topic=enterprise-download-ace-developer-edition-get-started)
-* Download the [OpenAPI spec](https://github.ibm.com/joel-gomez/cp4i-tech-jam/blob/main/artifacts/jgrmqapi.json)
+* Download the [OpenAPI spec](https://raw.github.ibm.com/joel-gomez/cp4i-tech-jam/main/artifacts/jgrmqapi.json)
 
 ## Low Code / No Code Development with ACE Toolkit.
 
