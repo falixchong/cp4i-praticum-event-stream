@@ -2,6 +2,9 @@
 
 This article explains the steps need to create an Integration Flow developed with *ACE Toolkit* that uses the *REST API* functionality as well as the *MQ Nodes* to interact with an **MQ Queue Manager** using the latest version of the **ACE Integration Server Certified Container (ACEcc)** as part of the *IBM Cloud Pak for Integration (CP4I)*.
 
+### Pre-requisites:
+* Install the [App Connect Toolkit](https://www.ibm.com/docs/en/app-connect/12.0?topic=enterprise-download-ace-developer-edition-get-started)
+
 ## Low Code / No Code Development with ACE Toolkit.
 
 1. Open the Toolkit in your workstation and create a new REST API project as shown below.
