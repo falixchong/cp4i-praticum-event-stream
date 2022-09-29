@@ -73,7 +73,7 @@ Now we are ready to move to ACE and create the required configuration using the 
 ## Create Resources in the ACE Toolkit
 
 For this article I have created a simple project that exposes an API to POST information into a Kafka topic.
-The following picture shows the corresponding flow. If you want to use this sample, you can find the Project Interchange [here](https://github.ibm.com/joel-gomez/tinkering-cp4i/blob/master/ACE/PIs/JGRESAPISCRAM.zip)
+The following picture shows the corresponding flow. If you want to use this sample, you can find the Project Interchange [here](https://github.com/falixchong/cp4i-praticum-event-stream/blob/main/JGRESAPISCRAM.zip)
 
 ![ACE Toolkit integration with ES Configuration Step 19](images/2021-09-19_06-39-06.png)
 
